@@ -1,0 +1,36 @@
+# EPICS installation dirs
+/cfg/
+/bin/
+/lib/
+/db/
+/dbd/
+/html/
+/include/
+/templates/
+/configure/*.local
+envPaths
+
+# EPICS installation dirs in *Top
+/*Top/cfg/
+/*Top/bin/
+/*Top/lib/
+/*Top/db/
+/*Top/dbd/
+/*Top/html/
+/*Top/include/
+/*Top/templates/
+/*Top/configure/*.local
+
+O.*/
+/QtC-*
+/.qtc_*
+.idea/
+*.orig
+*.log
+/devOpcuaSup/.vs/devOpcuaSup/v16
+/devOpcuaSup/x64
+*.sln
+*.vcxproj
+*.filters
+*.user
+/devOpcuaSup/opcuaIoc/x64
